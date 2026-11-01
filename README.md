@@ -69,7 +69,7 @@ Authors: Barbara Ryden\
 
 - Distance measures in cosmology\
 Author: David W. Hogg\
-http://arxiv.org/abs/astro-ph/9905116\
+http://arxiv.org/abs/astro-ph/9905116 \
 "This is a great introduction to observational cosmology, all the basics a newbie needs to know about the subject." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
 - Principles of Physical Cosmology\
@@ -78,7 +78,7 @@ Author: P.J.E. Peebles\
 
 - Cosmic Microwave Background Tutorials\
 Author: Wayne Hu, Department of Astronomy and Astrophysics, University of Chicago\
-http://background.uchicago.edu/index.html\
+http://background.uchicago.edu/index.html \
 "Wayne Hu's website provides a basic overview of some key cosmological concepts using easy to understand animations and relevant plots. It doesn't go into too much depth, but is a good place to start." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
 # Dark Matter
