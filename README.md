@@ -31,7 +31,7 @@ The majority of these have been taken from [this list compiled by Lee Robbins](h
 Authors: Bradley W. Carroll and Dale A. Ostlie\
 "General overview - I mention this solely to say that this is the level of basic astro knowledge people need to pass the general qual. Our year went crazy using advanced texts, but it was largely unnecessary." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
--Accretion power in astrophysics, 3rd edition\
+- Accretion power in astrophysics, 3rd edition\
 Authors: Juhan Frank, Andrew King, and Derek J. Raine\
 "For those who don't want to read Shakura and Sunayev '73, this is a very good introduction to how accretion disks work." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
