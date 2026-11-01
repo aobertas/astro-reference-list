@@ -3,6 +3,8 @@ A list of recommended/suggested textbooks and other material for topics in astro
 
 The majority of these have been taken from [this list compiled by Lee Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html) (the, now former, astro/physics librarian at the University of Toronto) from recommendations given by "graduate students, postdocs and faculty in the Department of Astronomy and Astrophysics, Dunlap Institute and CITA".
 
+I believe this was put together as a reference for the graduate students, especially to study for our general qualifying exam. I haven't read the vast majority of these books, papers, etc.
+
 # Index
 [General Astrophysics](#general-astrophysics)\
 [Black Holes](#black-holes)\
