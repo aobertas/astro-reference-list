@@ -18,7 +18,7 @@ The majority of these have been taken from [this list compiled by Lee Robbins](h
 [Lecturing and Teaching](#lecturing-and-teaching)\
 [Mathematics](#mathematics)\
 [Optics](#optics)\
-[Planetary Astronomy](#planetary-astronomy)\
+[Planetary Science and Exoplanets](#planetary-science-and-exoplanets)\
 [Quantum Field Theory](#quantum-field-theory)\
 [Radio Astronomy](#radio-astronomy)\
 [Statistical Mechanics](#statistical-mechanics)\
@@ -125,39 +125,27 @@ http://archive.org/download/LinearAndNonlinearWaves/Whitham-LinearAndNonlinearWa
 
 Galaxies
 
-Galactic dynamics, 2nd edition
-Authors: James Binney and Scott Tremaine
-QB 857 .B52 2008
-- This is the standard textbook, it's well written, the new version is up to date and it is a good introduction to the most important topics in galactic dynamics and dynamics in general.
+- Galactic dynamics, 2nd edition\
+Authors: James Binney and Scott Tremaine\
+"This is the standard textbook, it's well written, the new version is up to date and it is a good introduction to the most important topics in galactic dynamics and dynamics in general." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
-- For the quals, should basically just be used as a supplement to Schneider (Extragalactic astronomy and cosmology).
+- Galactic astronomy\
+Authors: James Binney and Michael Merrifield\
+"Galaxies : great book for phenomenology (very useful for reference)." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
-- Deals with all aspects of galaxy dynamics and mass modeling.
- 
-Galactic astronomy
-Authors: James Binney and Michael Merrifield
-QB 857 B522 1998
-Galaxies : great book for phenomenology (very useful for reference).
+- Extragalactic astronomy and cosmology : an introduction\
+Author: Peter Schneider\
+"Galactic, extragalactic and some cosmology. This is a wonderful book, written at the high undergrad level, on all things at distances scales greater than 1 Mpc. We pretty much just read this book to answer the extragalactic, and a lot of the galactic, sections." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Extragalactic astronomy and cosmology : an introduction
-Author: Peter Schneider
-QB 857 .5 .E96 S3813 2006
-Galactic, extragalactic and some cosmology. This is a wonderful book, written at the high undergrad level, on all things at distances scales greater than 1 Mpc. We pretty much just read this book to answer the extragalactic, and a lot of the galactic, sections.
+- The Milky Way : An Elusive Road for Science\
+Author: Jaki, Stanley L.\
+"Provides a useful historical background on models of the Milky Way from ancient Greece through the Middle Ages up to Hubble and Curtis/Shapley. It's much longer than most folks would find necessary; typically many of the things it takes a chapter to talk about are relegated to a sentence or two in other texts, but if somebody wants to know (for instance) instead of the 'general' view in ancient Greece the difference of opinions between Aristotle, Plutarch, Porphyry, Democritus, Macrobius, Cicero, Hyginus, etc. it can be a fairly unique reference. Other chapters are likewise detailed. The main attraction of the book from my point of view putting a lecture together, was the collection of plates at the end of the book reprinting various Milky Way theories from a variety of original sources from ~ 1500 to the early 1900s." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-The Milky Way : An Elusive Road for Science
-Author: Jaki, Stanley L.
-QB857 .7 .J35
-- Provides a useful historical background on models of the Milky Way from ancient Greece through the Middle Ages up to Hubble and Curtis/Shapley. It's much longer than most folks would find necessary; typically many of the things it takes a chapter to talk about are relegated to a sentence or two in other texts, but if somebody wants to know (for instance) instead of the 'general' view in ancient Greece the difference of opinions between Aristotle, Plutarch, Porphyry, Democritus, Macrobius, Cicero, Hyginus, etc. it can be a fairly unique reference. Other chapters are likewise detailed. The main attraction of the book from my point of view putting a lecture together, was the collection of plates at the end of the book reprinting various Milky Way theories from a variety of original sources from ~ 1500 to the early 1900s.
+# Gaseous Nebulae and Active Galactic Nuclei
 
- 
-Gaseous Nebulae and Active Galactic Nuclei
- 
-Astrophysics of gaseous nebulae and active galactic nuclei
-Authors: Donald E. Osterbrock and G. J. Ferland
-QB855 .55 O88 2005
-- This book covers physics in photo-ionized regions, provide very useful tables of constants for observers whose research involves ionized gas. The appendices are especially comprehensive for anyone who is just learning radioactive processes, or wants a quick recap of the subjects. I would at least highly recommend the appendices to everyone.
+- Astrophysics of gaseous nebulae and active galactic nuclei\
+Authors: Donald E. Osterbrock and G. J. Ferland\
+"This book covers physics in photo-ionized regions, provide very useful tables of constants for observers whose research involves ionized gas. The appendices are especially comprehensive for anyone who is just learning radioactive processes, or wants a quick recap of the subjects. I would at least highly recommend the appendices to everyone."
 
 - A great reference for those studying spectra of emission nebulae (H II regions, planetary nebulae).
 
@@ -289,7 +277,13 @@ Authors: Glen Cowan
 QA 276 .C658 1998
 This book should be a required text for astronomy. Rather than the *extremely* shallow slope provided by introduction statistics texts meant for general statistics, this text is meant for physical scientists (with a mathematical background) that have no familiarity with statistics.
 
- 
+strogatz non-linear book
+textbook for an undergrad course I took at UBC, but I didn't refer to it much (Alysa)
+
+regular and chaotic dynamics
+lichtenberg and lieberman
+along with SSD, this was basically my bible (Alysa)
+
 Optics
  
 Principles of optics: Electromagnetic theory of propagation, interference and diffraction of light, 7th edition
@@ -303,6 +297,24 @@ Author: Dennis Goldstein
 QC 441 .G65 2011
 The authority on polarized light (not astronomy specific).
 
+Planetary Science and Exoplanets
+
+Solar system dynamics
+Authors: Carl D. Murray and Stanley F. Dermott
+QB 501 .M87 1999
+Dynamics: a comprehensive book for the understanding planetary dynamics and tides.
+
+ 
+The Solar system beyond Neptune
+Edited by M. Antonietta Barucci
+QB 694 .S65 2008
+--
+
+scott tremaine's book
+more modern/updated compared to SSD; includes things relevant to exoplanets; great sections talking about numerical work (Alysa)
+
+exoplanets handbook
+haven't read this in full, but each chapter is written by experts; some can be found on arxiv (Alysa)
  
 Quantum Field Theory
  
@@ -339,20 +351,6 @@ Synthesis imaging in radio astronomy II
 Edited by G. B. Taylor C. L. Carilli, and R. A. Perley
 QB 479.2 A87 1998
 Astronomical Society of the Pacific, c1999	This volume is mainly thorough lecture notes from the NRAO's Synthesis Imaging Workshop, and focuses on lots of observational details that are useful for figuring out how to deal with noise, calibration, cleaning, etc.
- 
-Solar System
- 
-Solar system dynamics
-Authors: Carl D. Murray and Stanley F. Dermott
-QB 501 .M87 1999
-Dynamics: a comprehensive book for the understanding planetary dynamics and tides.
-
- 
-The Solar system beyond Neptune
-Edited by M. Antonietta Barucci
-QB 694 .S65 2008
---
-
  
 Statistical Mechanics
  
@@ -464,3 +462,7 @@ Stellar Spectral Classification
 Author: O. Gray and Christopher J. Corbally
 QB 881 .G73 2009
 If you have ever had to classify stellar spectra, this is your bible. Covers everything from the UV to the NIR. Not meant as a text, but rather a reference.
+
+- stellar evolution and structure, onno pols
+https://www.astro.ru.nl/~onnop/education/stev_utrecht_notes/
+used this in stellar astrophysics with Kristen Menou (Alysa)
