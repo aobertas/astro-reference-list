@@ -9,7 +9,6 @@ The majority of these have been taken from [this list compiled by Lee Robbins](h
 [Cosmology and Early Universe](#cosmology-and-early-universe)\
 [Dark Matter](#dark-matter)\
 [Fluid Dynamics and Mechanics](#fluid-dynamics-and-mechanics)\
-[Galactic Dynamics](#galactic-dynamics)\
 [Galaxies](#galaxies)\
 [Gaseous Nebulae and Active Galactic Nuclei](#gaseous-nebulae-and-active-galactic-nuclei)\
 [General Relativity](#general-relativity)\
@@ -27,143 +26,105 @@ The majority of these have been taken from [this list compiled by Lee Robbins](h
 [Stellar Astronomy](#stellar-astronomy)
 
 # General Astrophysics
- 
+
 - An introduction to modern astrophysics, 2nd edition\
 Authors: Bradley W. Carroll and Dale A. Ostlie\
 "General overview - I mention this solely to say that this is the level of basic astro knowledge people need to pass the general qual. Our year went crazy using advanced texts, but it was largely unnecessary." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Accretion power in astrophysics, 3rd edition
-Authors: Juhan Frank, Andrew King, and Derek J. Raine
-QB 466 .A25 .K56 2002
-For those who don't want to read Shakura and Sunayev '73, this is a very good introduction to how accretion disks work.
+-Accretion power in astrophysics, 3rd edition\
+Authors: Juhan Frank, Andrew King, and Derek J. Raine\
+"For those who don't want to read Shakura and Sunayev '73, this is a very good introduction to how accretion disks work." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Radiative Processes in Astrophysics
-Authors: Rybicki and Lightman
-QB 461 .R88
-It covers all the basics of the most important radiative processes in astrophysics and is a good introduction.
+- Radiative Processes in Astrophysics\
+Authors: Rybicki and Lightman\
+"It covers all the basics of the most important radiative processes in astrophysics and is a good introduction." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-The Tapestry of Modern Astrophysics
-Author: Steven N. Shore
-QB 461 .S56 2003
-What Caroll and Ostlie were trying to do, but at a graduate level. Covers a wide variety of the physics that's actually used in modern research areas sufficiently sparse enough to make the text readable, but sufficiently detailed to give you the physical intuition and let you look up the reference for a more detailed treatment. Particularly notable is the "General Relativity on the Cheap" section that helps develop intuition for GR without the harsh mathematical treatment.
+- The Tapestry of Modern Astrophysics\
+Author: Steven N. Shore\
+"What Caroll and Ostlie were trying to do, but at a graduate level. Covers a wide variety of the physics that's actually used in modern research areas sufficiently sparse enough to make the text readable, but sufficiently detailed to give you the physical intuition and let you look up the reference for a more detailed treatment. Particularly notable is the "General Relativity on the Cheap" section that helps develop intuition for GR without the harsh mathematical treatment." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Black Holes
- 
-Black hole physics : basic concepts and new developments
-Authors: Valeri P. Frolov and Igor D. Novikov
-QB 843 B55 F76 1998
-I wish I could have it on my shelf but I can't afford it.
+# Black Holes
 
- 
-Cosmology and Early Universe
- 
-Primordial cosmology
-Authors: Patrick Peter and Jean-Philippe Uzan
-QB 985 .P4813 2009
-Very detailed account of modern cosmology. Contains a lot of derivations in full detail and is mathematically rigorous. Not an introduction to the subject.
+- Black hole physics : basic concepts and new developments\
+Authors: Valeri P. Frolov and Igor D. Novikov\
+"I wish I could have it on my shelf but I can't afford it." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-The Early Universe
-Authors: Edward W. Kolb and Michael S. Turner
-QB 981 K65 1990
-A classical book on the physics of the early universe. While some of data is now outdated (pre-WMAP publication), a lot of the physics discussion is very hard to find anywhere else.
+# Cosmology and Early Universe
 
- 
-Modern cosmology
-Authors: Scott Dodelson
-QB 981 .D63 2003
---
+- Primordial cosmology\
+Authors: Patrick Peter and Jean-Philippe Uzan\
+"Very detailed account of modern cosmology. Contains a lot of derivations in full detail and is mathematically rigorous. Not an introduction to the subject." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Introduction to cosmology
-Authors: Barbara Ryden
-QB 981 .R93 2003
-Probably the most cogent book I've read on cosmology. Doesn't go into details, but for those who need an introduction to theoretical cosmology, it does a great job of laying out the basics using simple math.
+- The Early Universe\
+Authors: Edward W. Kolb and Michael S. Turner\
+"A classical book on the physics of the early universe. While some of data is now outdated (pre-WMAP publication), a lot of the physics discussion is very hard to find anywhere else." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Distance measures in cosmology
-Author: David W. Hogg
-http://arxiv.org/abs/astro-ph/9905116
-This is a great introduction to observational cosmology, all the basics a newbie needs to know about the subject.
+- Modern cosmology\
+Authors: Scott Dodelson\
+([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Principles of Physical Cosmology
-Author: P.J.E. Peebles
-QB 981 P424 1993
-Never particularly found this book readable, but alas, it is the only place to get a detailed treatment of certain topics -- for instance, Galaxy correlation functions.
+- Introduction to cosmology\
+Authors: Barbara Ryden\
+"Probably the most cogent book I've read on cosmology. Doesn't go into details, but for those who need an introduction to theoretical cosmology, it does a great job of laying out the basics using simple math." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Cosmic Microwave Background Tutorials
-Author: Wayne Hu, Department of Astronomy and Astrophysics, University of Chicago
-http://background.uchicago.edu/index.html	
-Wayne Hu's website provides a basic overview of some key cosmological concepts using easy to understand animations and relevant plots. It doesn't go into too much depth, but is a good place to start.
+- Distance measures in cosmology\
+Author: David W. Hogg\
+http://arxiv.org/abs/astro-ph/9905116\
+"This is a great introduction to observational cosmology, all the basics a newbie needs to know about the subject." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Dark Matter
- 
-Highlights of astronomy : as presented at the XXVII IAU General Assembly, Rio de Janeiro, Brazil, 2009
-Author: edited by Ian F. Corbett
-QB 1 H54 v. 15
-"JD1 - Dark matter in early-type galaxies : overview"
-Highlights of Astronomy, Volume 15, p. 61-64
+- Principles of Physical Cosmology\
+Author: P.J.E. Peebles\
+"Never particularly found this book readable, but alas, it is the only place to get a detailed treatment of certain topics -- for instance, Galaxy correlation functions." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Galaxies in the Universe : An Introduction, 2nd edition
-Author: Linda S. Sparke, John S. Gallagher
-QB 857 .S64 2007
-Chapters 3, 5, 6, on galaxy dynamics and mass modeling.
+- Cosmic Microwave Background Tutorials\
+Author: Wayne Hu, Department of Astronomy and Astrophysics, University of Chicago\
+http://background.uchicago.edu/index.html\
+"Wayne Hu's website provides a basic overview of some key cosmological concepts using easy to understand animations and relevant plots. It doesn't go into too much depth, but is a good place to start." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-In Search of Dark Matter
-Authors: Ken Freeman and Geoff McNamara
-QB 791 .3 .F74 2006
-Best book ever, everything about dark matter that you've always wanted to know.
+# Dark Matter
 
- 
-Fluid Dynamics and Mechanics
- 
-An Introduction to Fluid Dynamics
-Author: G. K. Batchelor
-QA 911 .B33
-- A classic text on fluid dynamics in the terrestrial context.
+- Highlights of astronomy : as presented at the XXVII IAU General Assembly, Rio de Janeiro, Brazil, 2009\
+Author: edited by Ian F. Corbett\
+"JD1 - Dark matter in early-type galaxies : overview"\
+"Highlights of Astronomy, Volume 15, p. 61-64" ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Similarity and dimensional methods in mechanics
-Author: L.I. Sedov
-QC 39 .S41 1982
-- The authoritative introduction to dimensional analysis and scaling as applied to mechanics and fluid dynamics.
+- Galaxies in the Universe : An Introduction, 2nd edition\
+Author: Linda S. Sparke, John S. Gallagher\
+"Chapters 3, 5, 6, on galaxy dynamics and mass modeling." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Physics of shock waves and high-temperature hydrodynamic phenomena
-Authors: Ya. B. Zeldovich and Yu. P. Raizer
-QC 168 .Z3813 v1 and v2
-- Hydrodynamics with a focus on shocks, combustion, and explosions.
+- In Search of Dark Matter\
+Authors: Ken Freeman and Geoff McNamara\
+"Best book ever, everything about dark matter that you've always wanted to know." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Scaling, self-similarity, and intermediate asymptotics : dimensional analysis and intermediate asymptotics
-Author: Grigory Isaakovich Barenblatt
-QA 401 .B3713 1996
-- An entertaining and highly readable book on asymptotic solutions, with a distinctly different point of view from Sedov's.
+# Fluid Dynamics and Mechanics
 
- 
-Fluid mechanics
-Author: L.D. Landau
-QA 901 .L283 1987 (2nd ed.)
-- A succinct textbook and an authoritative reference.
+- An Introduction to Fluid Dynamics\
+Author: G. K. Batchelor\
+"A classic text on fluid dynamics in the terrestrial context." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Linear and Nonlinear Waves
-Author: G.B. Whitham
-http://archive.org/download/LinearAndNonlinearWaves/Whitham-LinearAndNonlinearWaves.pdf
-- An insightful book on the dynamics of characteristics, sound waves, shock waves, and other types of waves, with a focus on exact and approximate solutions.
+- Similarity and dimensional methods in mechanics\
+Author: L.I. Sedov\
+"The authoritative introduction to dimensional analysis and scaling as applied to mechanics and fluid dynamics." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Galactic Dynamics
- 
+- Physics of shock waves and high-temperature hydrodynamic phenomena\
+Authors: Ya. B. Zeldovich and Yu. P. Raizer\
+"Hydrodynamics with a focus on shocks, combustion, and explosions." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
+
+- Scaling, self-similarity, and intermediate asymptotics : dimensional analysis and intermediate asymptotics\
+Author: Grigory Isaakovich Barenblatt\
+"An entertaining and highly readable book on asymptotic solutions, with a distinctly different point of view from Sedov's."
+
+- Fluid mechanics\
+Author: L.D. Landau\
+"A succinct textbook and an authoritative reference." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
+
+- Linear and Nonlinear Waves\
+Author: G.B. Whitham\
+http://archive.org/download/LinearAndNonlinearWaves/Whitham-LinearAndNonlinearWaves.pdf\
+"An insightful book on the dynamics of characteristics, sound waves, shock waves, and other types of waves, with a focus on exact and approximate solutions." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
+
+Galaxies
+
 Galactic dynamics, 2nd edition
 Authors: James Binney and Scott Tremaine
 QB 857 .B52 2008
@@ -172,9 +133,6 @@ QB 857 .B52 2008
 - For the quals, should basically just be used as a supplement to Schneider (Extragalactic astronomy and cosmology).
 
 - Deals with all aspects of galaxy dynamics and mass modeling.
-
- 
-Galaxies
  
 Galactic astronomy
 Authors: James Binney and Michael Merrifield
