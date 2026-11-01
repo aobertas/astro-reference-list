@@ -146,323 +146,236 @@ Author: Jaki, Stanley L.\
 - Astrophysics of gaseous nebulae and active galactic nuclei\
 Authors: Donald E. Osterbrock and G. J. Ferland\
 "This book covers physics in photo-ionized regions, provide very useful tables of constants for observers whose research involves ionized gas. The appendices are especially comprehensive for anyone who is just learning radioactive processes, or wants a quick recap of the subjects. I would at least highly recommend the appendices to everyone."
+"A great reference for those studying spectra of emission nebulae (H II regions, planetary nebulae)." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
-- A great reference for those studying spectra of emission nebulae (H II regions, planetary nebulae).
+# General Relativity
 
- 
-General Relativity
- 
-Spacetime and geometry: an introduction to general relativity.
-Authors: Sean Carroll
-QC 173.6 .C377 2004
-This is the book that I used as an introduction to GR. It is very readable and is easier to follow than other GR books I tried.
+- Spacetime and geometry: an introduction to general relativity.\
+Authors: Sean Carroll\
+"This is the book that I used as an introduction to GR. It is very readable and is easier to follow than other GR books I tried." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-General relativity
-Authors: Robert M. Wald
-QC 173.6 .W35
-A thorough and rigorously modern approach to GR. Great reference when I forget how to do something.
+- General relativity\
+Authors: Robert M. Wald\
+"A thorough and rigorously modern approach to GR. Great reference when I forget how to do something." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Numerical relativity : solving Einstein's equations on the computer
-Authors: Thomas W. Baumgarte and Stuart L. Shapiro
-QC 173 .59 B38 2010
-This is an amazing reference to learn the necessary background for work in numerical relativity.
+- Numerical relativity : solving Einstein's equations on the computer\
+Authors: Thomas W. Baumgarte and Stuart L. Shapiro\
+"This is an amazing reference to learn the necessary background for work in numerical relativity." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-3+1 formalism in general relativity bases of numerical relativity
-Author: Eric Gourgoulhon
-QC 173 .6 .G68 2012
-This book contains a very in depth derivation of the 3+1 equations used in numerical relativity. A very good reference as it does the computations in detail.
+- 3+1 formalism in general relativity bases of numerical relativity\
+Author: Eric Gourgoulhon\
+"This book contains a very in depth derivation of the 3+1 equations used in numerical relativity. A very good reference as it does the computations in detail." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Gravitational Waves
- 
-Fundamentals of Interferometric Gravitational Wave Detectors
-Author: Peter R. Saulson
-QC 179 .S28 1994
-I make sure I have it on my shelf.
+# Gravitational Waves
 
- 
-Gravitational-wave physics and astronomy: An Introduction to theory, experiment and data analysis
-Authors: Jolien Creighton and Warren Anderson
-QC 179 .C74 2011
-This is likely to become a standard reference.
+- Fundamentals of Interferometric Gravitational Wave Detectors\
+Author: Peter R. Saulson\
+"I make sure I have it on my shelf." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-High Energy Astrophysics
- 
-High energy astrophysics, 3rd edition
-Author: Malcolm S. Longair
-QB 464 .L66 2011
-A self-contained and through introduction to high-energy astrophysics. Great for studying for the qual.
+- Gravitational-wave physics and astronomy: An Introduction to theory, experiment and data analysis\
+Authors: Jolien Creighton and Warren Anderson\
+"This is likely to become a standard reference." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Interstellar Medium
- 
-Dust in the galactic environment, 2nd edition
-Author: D. C. B. Whittet
-QB 791 .W54 2003
---
+# High Energy Astrophysics
 
- 
-The interstellar medium
-Author: James Lequeux
-QB 790 .L47 2005
---
+- High energy astrophysics, 3rd edition\
+Author: Malcolm S. Longair\
+"A self-contained and through introduction to high-energy astrophysics. Great for studying for the qual." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
+# Interstellar Medium
  
-The physics of the interstellar medium, 2nd edition
-Authors: J.E. Dyson and D.A. Williams
-QB 790 D97 1997
-- A clearly written introduction to processes in the interstellar medium. It can serve as a good starting point for anyone new to the field.
+- Dust in the galactic environment, 2nd edition\
+Author: D. C. B. Whittet\
+([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
+ 
+- The interstellar medium\
+Author: James Lequeux\
+([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
+ 
+- The physics of the interstellar medium, 2nd edition\
+Authors: J.E. Dyson and D.A. Williams\
+"A clearly written introduction to processes in the interstellar medium. It can serve as a good starting point for anyone new to the field."\
+"This book is the best textbook for ISM, very well written, provides comprehensive but not overwhelmingly detailed physics in ISM. I would recommend this book to study for the general qual and use other ISM textbooks as supplement." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
-- This book is the best textbook for ISM, very well written, provides comprehensive but not overwhelmingly detailed physics in ISM. I would recommend this book to study for the general qual and use other ISM textbooks as supplement.
+- Physical processes in the interstellar medium\
+Author: Lyman Spitzer\
+"Offers a more rigorous approach to the physics in the interstellar medium." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Physical processes in the interstellar medium
-Author: Lyman Spitzer
-QB 790 .S67 2004
-Offers a more rigorous approach to the physics in the interstellar medium.
+- Physics of the interstellar and intergalactic medium\
+Author: Bruce T. Draine\
+"A really annoying book to try to pick up, and far too detailed for the qualifier, but we used it whenever we needed details on any process. The introductory paragraphs in each section are also a lot more palatable." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Physics of the interstellar and intergalactic medium
-Author: Bruce T. Draine
-QB 790 .D73 2011
-A really annoying book to try to pick up, and far too detailed for the qualifier, but we used it whenever we needed details on any process. The introductory paragraphs in each section are also a lot more palatable.
+# Lecturing and Teaching
 
- 
-Lecturing and Teaching
- 
-What's the use of lectures?
-Author: Donald A. Bligh
-LC 6515 .B55 2000
-An authoritative summary of best practices for those times when lecturing is the only option. Well supported by research.
+- What's the use of lectures?\
+Author: Donald A. Bligh\
+"An authoritative summary of best practices for those times when lecturing is the only option. Well supported by research." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Teaching as a subversive activity
-Authors: Neil Postman and Charles Weingartner
-LA 217 .P67 1969
-Should be required reading for anyone who comes in contact with students anywhere ever. Outlines the philosophy behind active learning and, more importantly, makes an excellent case against teacher-centered teaching techniques.
+- Teaching as a subversive activity\
+Authors: Neil Postman and Charles Weingartner\
+"Should be required reading for anyone who comes in contact with students anywhere ever. Outlines the philosophy behind active learning and, more importantly, makes an excellent case against teacher-centered teaching techniques." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Mathematics
- 
-Introduction to smooth manifolds
-Author: John M. Lee
-QA613 .L44 2003 (Mathematical Sciences Library)
-A very readable but rigorous introduction to differential geometry and smooth manifold theory. For everyone who wants to know all the technical details usually swept under the rug in GR books.
+# Mathematics
 
- 
-Data reduction and error analysis for the physical sciences
-Authors: Philip R. Bevington and D. Keith Robinson
-QA 278 .B48 2003
---
+- Introduction to smooth manifolds\
+Author: John M. Lee\
+"A very readable but rigorous introduction to differential geometry and smooth manifold theory. For everyone who wants to know all the technical details usually swept under the rug in GR books." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Mathematical methods in the physical sciences, 3rd edition
-Author: Mary L. Boas
-QA 37.3 .B63 2006
---
+- Data reduction and error analysis for the physical sciences\
+Authors: Philip R. Bevington and D. Keith Robinson\
+([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Data analysis: Bayesian tutorial, 2nd edition
-Authors: D. S. Sivia with J. Skilling
-QA 279 .5 .S55 2006. DA
---
+- Mathematical methods in the physical sciences, 3rd edition\
+Author: Mary L. Boas\
+([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
+- Data analysis: Bayesian tutorial, 2nd edition\
+Authors: D. S. Sivia with J. Skilling\
+([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
  
-Statistical Data Analysis
-Authors: Glen Cowan
-QA 276 .C658 1998
-This book should be a required text for astronomy. Rather than the *extremely* shallow slope provided by introduction statistics texts meant for general statistics, this text is meant for physical scientists (with a mathematical background) that have no familiarity with statistics.
+- Statistical Data Analysis\
+Authors: Glen Cowan\
+"This book should be a required text for astronomy. Rather than the *extremely* shallow slope provided by introduction statistics texts meant for general statistics, this text is meant for physical scientists (with a mathematical background) that have no familiarity with statistics." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
-strogatz non-linear book
+- strogatz non-linear book\
 textbook for an undergrad course I took at UBC, but I didn't refer to it much (Alysa)
 
-regular and chaotic dynamics
-lichtenberg and lieberman
+- regular and chaotic dynamics\
+lichtenberg and lieberman\
 along with SSD, this was basically my bible (Alysa)
 
-Optics
+# Optics
  
-Principles of optics: Electromagnetic theory of propagation, interference and diffraction of light, 7th edition
-Authors: Max Born and Emil Wolf
-QC 351 .B67 1999
-I make sure I have it on my shelf.
+- Principles of optics: Electromagnetic theory of propagation, interference and diffraction of light, 7th edition\
+Authors: Max Born and Emil Wolf\
+"I make sure I have it on my shelf." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Polarized Light, 3rd edition
-Author: Dennis Goldstein
-QC 441 .G65 2011
-The authority on polarized light (not astronomy specific).
+- Polarized Light, 3rd edition\
+Author: Dennis Goldstein\
+"The authority on polarized light (not astronomy specific)." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
-Planetary Science and Exoplanets
+# Planetary Science and Exoplanets
 
-Solar system dynamics
-Authors: Carl D. Murray and Stanley F. Dermott
-QB 501 .M87 1999
-Dynamics: a comprehensive book for the understanding planetary dynamics and tides.
+- Solar system dynamics\
+Authors: Carl D. Murray and Stanley F. Dermott\
+"Dynamics: a comprehensive book for the understanding planetary dynamics and tides."  ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
+I lived and breathed this book (Alysa)
 
- 
-The Solar system beyond Neptune
-Edited by M. Antonietta Barucci
-QB 694 .S65 2008
---
+- The Solar system beyond Neptune\
+Edited by M. Antonietta Barucci\
+([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
-scott tremaine's book
+- scott tremaine's book\
 more modern/updated compared to SSD; includes things relevant to exoplanets; great sections talking about numerical work (Alysa)
 
-exoplanets handbook
+- exoplanets handbook\
 haven't read this in full, but each chapter is written by experts; some can be found on arxiv (Alysa)
  
-Quantum Field Theory
- 
-Field quantization
-Authors: Greiner and Joachim J. Reinhardt
-QC174.45 .G72 1996 (Gerstein Science Library and Physics Library)
-A great introduction to quantum field theory with lots of worked problems. Eases the reader from familiar concepts all the way to path integral quantization.
+# Quantum Field Theory
 
- 
-Radio Astronomy
- 
-Radio astronomy, 2nd edition
-Author: John D. Kraus
-QB 475 .K67 1986
-The authoritative reference on all things radio.
+- Field quantization\
+Authors: Greiner and Joachim J. Reinhardt\
+"A great introduction to quantum field theory with lots of worked problems. Eases the reader from familiar concepts all the way to path integral quantization." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
+# Radio Astronomy
  
-Tools of Radio astronomy, 5th edition
-Author: K. Rohlfs, T.L. Wilson, S. Hutemeister.
-QB 475 .R63 2009
-If it's not in Kraus, it's in here. A little more up-to-date than Kraus.
- 
-Interferometry and synthesis in radio astronomy, 2nd edition
-Authors: A. Richard Thompson, James M. Moran, George W. Swenson Jr.
-QB 479.2 .T47 2001	
-- Should be called The Interferometry Bible. It has just about everything one could need to know about interferometry. Perfect for grad students.
+- Radio astronomy, 2nd edition\
+Author: John D. Kraus\
+"The authoritative reference on all things radio." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
-- I make sure I have it on my shelf.
-
-- Interferometry and Synthesis in Radio Astronomy by Thompson, Moran, and Swenson has been recommended to me by a few different people and often shows up referenced in published papers for the basics of radio astronomy.
-
+- Tools of Radio astronomy, 5th edition\
+Author: K. Rohlfs, T.L. Wilson, S. Hutemeister.\
+"If it's not in Kraus, it's in here. A little more up-to-date than Kraus." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
  
-Synthesis imaging in radio astronomy II
-Edited by G. B. Taylor C. L. Carilli, and R. A. Perley
-QB 479.2 A87 1998
-Astronomical Society of the Pacific, c1999	This volume is mainly thorough lecture notes from the NRAO's Synthesis Imaging Workshop, and focuses on lots of observational details that are useful for figuring out how to deal with noise, calibration, cleaning, etc.
- 
-Statistical Mechanics
- 
-Statistical physics of particles
-Author: Mehran Kardar
-QC174.8 .K37 2007 (Physics Library)
-A thorough introduction to statistical mechanics.
+- Interferometry and synthesis in radio astronomy, 2nd edition\
+Authors: A. Richard Thompson, James M. Moran, George W. Swenson Jr.\
+"Should be called The Interferometry Bible. It has just about everything one could need to know about interferometry. Perfect for grad students." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))\
+"I make sure I have it on my shelf." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))\
+"Interferometry and Synthesis in Radio Astronomy by Thompson, Moran, and Swenson has been recommended to me by a few different people and often shows up referenced in published papers for the basics of radio astronomy." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
+- Synthesis imaging in radio astronomy II\
+Edited by G. B. Taylor C. L. Carilli, and R. A. Perley\
+"Astronomical Society of the Pacific, c1999	This volume is mainly thorough lecture notes from the NRAO's Synthesis Imaging Workshop, and focuses on lots of observational details that are useful for figuring out how to deal with noise, calibration, cleaning, etc." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
  
-Statistical mechanics, 2nd edition
-Author: Franz Schwabl
-QC174.8 .S3813 2006 (Gerstein Library and Physics Library)
-An advanced text on statistical mechanics with great coverage of quantum statistics. Not for the faint of heart.
-
+# Statistical Mechanics
  
-Star Formation
+- Statistical physics of particles\
+Author: Mehran Kardar\
+"A thorough introduction to statistical mechanics." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
+
+- Statistical mechanics, 2nd edition\
+Author: Franz Schwabl\
+"An advanced text on statistical mechanics with great coverage of quantum statistics. Not for the faint of heart."
+
+# Star Formation
+
+- The formations of stars\
+Author: Steven W. Stahler and Francesco Palla\
+"It's a recent substantial overview of the topic by a pair of experts." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
+
+- Principles of star formation\
+Author: Peter H. Bodenheimer\
+([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
  
-The formations of stars
-Author: Steven W. Stahler and Francesco Palla
-QB806 .S735 2004
-It's a recent substantial overview of the topic by a pair of experts.
-
+- An introduction to star formation\
+Author: Derek Ward-Thompson\
+([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
  
-Principles of star formation
-Author: Peter H. Bodenheimer
-QB 806 .B63 2011
---
+- Star Formation in Galaxies Along the Hubble Sequence\
+Author: Robert C. Kennicutt, Jr.\
+http://adsabs.harvard.edu/abs/1998ARA%26A..36..189K \
+"THE review paper you need to read if you want to get a sense of how star formation is measured in other Galaxies." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
+- The stellar initial mass function\
+Author: J.M. Scalo\
+http://adsabs.harvard.edu/abs/1986FCPh...11....1S \
+"The only place where the IMF is really described in detail right from construction. Available online at http://www.as.utexas.edu/astronomy/people/scalo/Scalo1986.IMF.FundCosPhys.pdf" ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
+
+- Towards Understanding Massive Star Formation\
+Author: Hans Zinnecker and Harold W. Yorke\
+http://adsabs.harvard.edu/abs/2007ARA%26A..45..481Z \
+"The place to get an understanding of what questions (and nomenclature) exists in massive star formation."
+
+# Stellar Astronomy
  
-An introduction to star formation
-Author: Derek Ward-Thompson
-QB 806 .W36 2011
---
+- Stellar structure and evolution\
+Authors: R. Kippenhahn and A. Weigert\
+"A complete course on the physics of stellar interiors." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
+"A great book for understanding the basic (at the level of graduate student but this is also a very good reference for undergraduates taking AST320) physics behind stellar structure and evolution." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
+"Stellar structure including compact objects and the lives of stars. The bible on stellar structure, extremely insightful and a wonderful read in general. It might be a bit difficult for novices to pick up, but Marten's probably using it for his grad-level stars class, so a large number of people will get introduced to it. For those looking for a supplement, I suggest - Stellar interiors : physical principles, structure and evolution by Carl J. Hansen." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
+- Stellar interiors : physical principles, structure, and evolution, 2nd edition\
+Authors: Carl J. Hansen, Steven D. Kawaler, Virginia Trimble\
+"Somewhat more easy to understand than Kippenhahn, but I found it slightly more difficult to use as a reference text, and had the feeling it was a bit shallower than Kippenhahn." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
+
+- An introduction to the theory of stellar structure and evolution, 2nd edition\
+Author: Dina Prialnik\
+"Theoretical models of stellar structure" ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
+
+- An introduction to close binary stars\
+Author: R. W. Hilditch\
+"Observational and theoretical on close binary stars." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
+
+- Introduction to stellar winds\
+Author: Henny J.G.L.M. Lamers and Joseph P. Cassinelli\
+"It is easy to read and covers all the basic ideas in stellar wind theory in a coherent fashion." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
+
+- Stellar atmospheres, 2nd edition\
+Author: Dimitri Mihalas\
+([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
  
-Star Formation in Galaxies Along the Hubble Sequence
-Author: Robert C. Kennicutt, Jr.
-http://adsabs.harvard.edu/abs/1998ARA%26A..36..189K
-THE review paper you need to read if you want to get a sense of how star formation is measured in other Galaxies.
+- An introduction to the study of stellar structure\
+Author: S. Chandrasekhar\
+"A very detailed mathematical treatment of the equations of stellar structure, including quantum effects." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-The stellar initial mass function
-Author: J.M. Scalo
-http://adsabs.harvard.edu/abs/1986FCPh...11....1S
-The only place where the IMF is really described in detail right from construction. Available online at http://www.as.utexas.edu/astronomy/people/scalo/Scalo1986.IMF.FundCosPhys.pdf
+- Nonradial oscillations of stars, 2nd edition\
+Author: Wasaburo Unno\
+"A great book for understanding stellar pulsation (nice comprehensive mathematics)." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Towards Understanding Massive Star Formation
-Author: Hans Zinnecker and Harold W. Yorke
-http://adsabs.harvard.edu/abs/2007ARA%26A..45..481Z
-The place to get an understanding of what questions (and nomenclature) exists in massive star formation.
+- Stellar Spectral Classification\
+Author: O. Gray and Christopher J. Corbally\
+"If you have ever had to classify stellar spectra, this is your bible. Covers everything from the UV to the NIR. Not meant as a text, but rather a reference." ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
 
- 
-Stellar Astronomy
- 
-Stellar structure and evolution
-Authors: R. Kippenhahn and A. Weigert
-QB 806 K56 1990
-- A complete course on the physics of stellar interiors.
-
-- A great book for understanding the basic (at the level of graduate student but this is also a very good reference for undergraduates taking AST320) physics behind stellar structure and evolution.
-
-- Stellar structure including compact objects and the lives of stars. The bible on stellar structure, extremely insightful and a wonderful read in general. It might be a bit difficult for novices to pick up, but Marten's probably using it for his grad-level stars class, so a large number of people will get introduced to it. For those looking for a supplement, I suggest - Stellar interiors : physical principles, structure and evolution by Carl J. Hansen.
-
- 
-Stellar interiors : physical principles, structure, and evolution, 2nd edition
-Authors: Carl J. Hansen, Steven D. Kawaler, Virginia Trimble
-QB 808 .H36 2004
-Somewhat more easy to understand than Kippenhahn, but I found it slightly more difficult to use as a reference text, and had the feeling it was a bit shallower than Kippenhahn.
-
- 
-An introduction to the theory of stellar structure and evolution, 2nd edition
-Author: Dina Prialnik
-QB 808 .P74 2009
-Theoretical models of stellar structure
-
- 
-An introduction to close binary stars
-Author: R. W. Hilditch
-QB 821 .H54 2001
-Observational and theoretical on close binary stars.
-
- 
-Introduction to stellar winds
-Author: Henny J.G.L.M. Lamers and Joseph P. Cassinelli
-QB 466 .M37 .L35 1999
-It is easy to read and covers all the basic ideas in stellar wind theory in a coherent fashion.
-
- 
-Stellar atmospheres, 2nd edition
-Author: Dimitri Mihalas
-QB 809 .M5 1978
---
-
- 
-An introduction to the study of stellar structure
-Author: S. Chandrasekhar
-QB 461 .C45 1967
-A very detailed mathematical treatment of the equations of stellar structure, including quantum effects.
-
- 
-Nonradial oscillations of stars, 2nd edition
-Author: Wasaburo Unno
-QB 838 N66 1989
-A great book for understanding stellar pulsation (nice comprehensive mathematics).
-
- 
-Stellar Spectral Classification
-Author: O. Gray and Christopher J. Corbally
-QB 881 .G73 2009
-If you have ever had to classify stellar spectra, this is your bible. Covers everything from the UV to the NIR. Not meant as a text, but rather a reference.
-
-- stellar evolution and structure, onno pols
-https://www.astro.ru.nl/~onnop/education/stev_utrecht_notes/
+- stellar evolution and structure, onno pols\
+https://www.astro.ru.nl/~onnop/education/stev_utrecht_notes/ \
 used this in stellar astrophysics with Kristen Menou (Alysa)
