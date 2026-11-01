@@ -258,7 +258,7 @@ Author: Dennis Goldstein\
 
 - Solar system dynamics\
 Authors: Carl D. Murray and Stanley F. Dermott\
-"Dynamics: a comprehensive book for the understanding planetary dynamics and tides."  ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))
+"Dynamics: a comprehensive book for the understanding planetary dynamics and tides."  ([Robbins](https://www.astro.utoronto.ca/AALibrary/recommendations.html))\
 I lived and breathed this book (Alysa)
 
 - The Solar system beyond Neptune\
