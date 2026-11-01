@@ -6,27 +6,27 @@ The majority of these have been taken from [this list compiled by Lee Robbins](h
 # Index
 [General Astrophysics](#general-astrophysics)\
 [Black Holes](#black-holes)\
-[Cosmology and Early Universe](#cosmology)\
+[Cosmology and Early Universe](#cosmology-and-early-universe)\
 [Dark Matter](#dark-matter)\
-[Fluid Dynamics and Mechanics](#fluid-dynamics)\
+[Fluid Dynamics and Mechanics](#fluid-dynamics-and-mechanics)\
 [Galactic Dynamics](#galactic-dynamics)\
 [Galaxies](#galaxies)\
-[Gaseous Nebulae and Active Galactic Nuclei](#nebulae-agn)\
-[General Relativity](#gr)\
+[Gaseous Nebulae and Active Galactic Nuclei](#gaseous-nebulae-and-active-galactic-nuclei)\
+[General Relativity](#general-relativity)\
 [Gravitational Waves](#gravitational-waves)\
-[High Energy Astrophysics](#high-energy)\
-[Interstellar Medium](#ism)\
-[Lecturing and Teaching](#teaching)\
-[Mathematics](#math)\
+[High Energy Astrophysics](#high-energy-astrophysics)\
+[Interstellar Medium](#intertellar-medium)\
+[Lecturing and Teaching](#lecturing-and-teaching)\
+[Mathematics](#mathematics)\
 [Optics](#optics)\
-[Planetary Astronomy](#planets)\
-[Quantum Field Theory](#qft)\
-[Radio Astronomy](#radio)\
-[Statistical Mechanics](#stat-mech)\
+[Planetary Astronomy](#planetary-astronomy)\
+[Quantum Field Theory](#quantum-field-theory)\
+[Radio Astronomy](#radio-astronomy)\
+[Statistical Mechanics](#statistical-mechanics)\
 [Star Formation](#star-formation)\
-[Stellar Astronomy](#stars)
+[Stellar Astronomy](#stellar-astronomy)
 
-# General Astrophysics {#general-astrophysics}
+# General Astrophysics
  
 - An introduction to modern astrophysics, 2nd edition\
 Authors: Bradley W. Carroll and Dale A. Ostlie\
